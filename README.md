@@ -1,0 +1,2 @@
+# scrabble
+JavaScript Scrabble
